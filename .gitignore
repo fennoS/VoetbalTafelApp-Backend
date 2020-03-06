@@ -1,0 +1,7 @@
+/VoetbalTafel.Core/bin/
+/VoetbalTafel.Api/bin/
+/VoetbalTafel.Api/VoetbalTafel.Api.csproj.user
+/.idea/
+/.vs/
+/VoetbalTafel.Api/obj/
+/VoetbalTafel.Core/obj/
